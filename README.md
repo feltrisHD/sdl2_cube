@@ -2,7 +2,7 @@
 Infinite Dodge Game programmed in C++ with SDL2
 
 # How it Works
-When you start the game, click start to start when youre in, just dodge the red "enemy cubes" with the arrow-keys and get the highest score possible!
+When you start the game, click start to start when youre in, just dodge the red "enemy cubes" with WASD and get the highest score possible!
 
 # How to run
 Windows:
