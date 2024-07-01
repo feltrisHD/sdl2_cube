@@ -19,7 +19,7 @@ Linux:
 # How to Compile (linux)
 1. Download the src folder
 2. Go into the source folder
-3. Make sure you have SDL2 and SDL2_ttf installed!!
+3. Make sure you have SDL2 and SDL2_ttf installed!! (If not you can install it on Debian-based systems with: `sudo apt install libsdl2-dev libsdl2_ttf-dev`)
 4. open terminal in src
 5. type: `g++ main.cpp font.h -o sdl2_cube -lSDL2 -lSDL2_ttf`
 
