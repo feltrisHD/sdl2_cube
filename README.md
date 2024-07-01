@@ -2,7 +2,7 @@
 Infinite Dodge Game programmed in C++ with SDL2
 
 # How it Works
-As soon as you are starting the executable you are thrown into the game. Just dodge the red "enemy cubes" with the arrow-keys and get the highest score possible!
+When you start the game, click start to start when youre in, just dodge the red "enemy cubes" with the arrow-keys and get the highest score possible!
 
 # How to run
 Windows:
@@ -17,7 +17,7 @@ Linux:
 6. now you can type `./sdl2_cube` or just double click the file
 
 # How to Compile (linux)
-1. Download the src folder
+1. Download the src1.5 folder
 2. Go into the source folder
 3. Make sure you have SDL2, g++ and SDL2_ttf installed!! (If not you can install it on Debian-based systems with: `sudo apt install libsdl2-dev libsdl2_ttf-dev g++`)
 4. open terminal in src
