@@ -10,10 +10,10 @@ Download ZIP folder from latest release, extract and the .exe file, but make sur
 
 Linux:
 1. Install SDL2 and SDL2_ttf (Debian-based: `sudo apt install libsdl2-dev libsdl2_ttf-dev`
-2. Arch-based: `sudo pacman -S sdl2 sdl2_ttf`)
-3. Download sdl2_cube from latest release
-4. open Terminal
-5. type: `cd Downloads`
+Arch-based: `sudo pacman -S sdl2 sdl2_ttf`)
+2. Download sdl2_cube from latest release
+3. open Terminal
+4. type: `cd Downloads`
 6. type: `chmod +x sdl2_cube`
 7. now you can type `./sdl2_cube` or just double click the file
 
