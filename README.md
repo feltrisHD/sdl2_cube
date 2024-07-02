@@ -9,7 +9,7 @@ Windows:
 Download ZIP folder from latest release, extract and the .exe file, but make sure the DLLs are in the same folder as the executable!
 
 Linux:
-1. Install SDL2, g++ and SDL2_ttf (Debian-based: `sudo apt install libsdl2-dev libsdl2_ttf-dev` Arch-based: `sudo pacman -S sdl2 sdl2_ttf`)
+1. Install SDL2 and SDL2_ttf (Debian-based: `sudo apt install libsdl2-dev libsdl2_ttf-dev` Arch-based: `sudo pacman -S sdl2 sdl2_ttf`)
 2. Download sdl2_cube from latest release
 3. open Terminal
 4. type: `cd Downloads`
@@ -19,7 +19,7 @@ Linux:
 # How to Compile (linux)
 1. Download the src1.5 folder
 2. Go into the source folder
-3. Make sure you have SDL2, g++ and SDL2_ttf installed!! (If not you can install it on Debian-based systems with: `sudo apt install libsdl2-dev libsdl2_ttf-dev g++`)
+3. Make sure you have SDL2, g++ and SDL2_ttf installed!! (If not you can install it on Debian-based systems with: `sudo apt install libsdl2-dev libsdl2_ttf-dev g++` Arch-based: `sudo pacman -S sdl2 sdl2_ttf gcc`)
 4. open terminal in src
 5. type: `g++ main.cpp font.h -o sdl2_cube -lSDL2 -lSDL2_ttf`
 
