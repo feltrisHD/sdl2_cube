@@ -9,7 +9,7 @@ Windows:
 Download ZIP folder from latest release, extract and the .exe file, but make sure the DLLs are in the same folder as the executable!
 
 Linux:
-1. Install SDL2, g++ and SDL2_ttf (Debian-based: `sudo apt install libsdl2-dev libsdl2_ttf-dev`)
+1. Install SDL2, g++ and SDL2_ttf (Debian-based: `sudo apt install libsdl2-dev libsdl2_ttf-dev` Arch-based: `sudo pacman -S sdl2 sdl2_ttf`)
 2. Download sdl2_cube from latest release
 3. open Terminal
 4. type: `cd Downloads`
