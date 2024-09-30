@@ -2,7 +2,7 @@
 Infinite Dodge Game programmed in C++ with SDL2
 
 # How it Works
-When you start the game, click start to start when youre in, just dodge the red enemies with WASD and get the highest score possible!
+When you start the game, click start to start when youre in, just dodge the red enemies with WASD and Space to boost, you can earn new boosts everytime your score increases by 2000 and get the highest score possible!
 
 # How to run
 Windows:
