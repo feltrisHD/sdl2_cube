@@ -18,10 +18,10 @@ Arch-based: `sudo pacman -S sdl2 sdl2_ttf sdl2_image`)
 7. now you can type `./sdl2_cube` or just double click the file
 
 # How to Compile (linux)
-1. Download the src1.5 folder
+1. Download the source.zip and extract it 
 2. Go into the source folder
 3. Make sure you have SDL2, g++ and SDL2_ttf installed!! (If not you can install it on Debian-based systems with: `sudo apt install libsdl2-dev libsdl2-ttf-dev libsdl2-image-dev g++`
 4. Arch-based: `sudo pacman -S sdl2 sdl2_ttf sdl2_image gcc`)
 5. open terminal in src
-6. type: `g++ main.cpp font.h -o sdl2_cube -lSDL2 -lSDL2_ttf -lSDL2_image`
+6. type: `g++ main.cpp font.h -o sdl2_cube -lSDL2 -lSDL2_ttf -lSDL2_image -lX11`
 
